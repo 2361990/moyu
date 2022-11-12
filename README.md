@@ -1,29 +1,29 @@
-[![Stars](https://img.shields.io/gitlab/stars/ddgksf2013/Cuttlefish?gitlab_url=https%3A%2F%2Fgitlab.com&style=social)](https://gitlab.com/ddgksf2013/Cuttlefish/-/starrers)
-[![Fork](https://img.shields.io/gitlab/forks/ddgksf2013/Cuttlefish?gitlab_url=https%3A%2F%2Fgitlab.com%2F&style=social)](https://gitlab.com/ddgksf2013/Cuttlefish/-/forks)
+[![Stars](https://img.shields.io/gitlab/stars/ddgksf2013/Cuttlefish?gitlab_url=https%3A%2F%2Fgitlab.com&style=social)]
+[![Fork](https://img.shields.io/gitlab/forks/ddgksf2013/Cuttlefish?gitlab_url=https%3A%2F%2Fgitlab.com%2F&style=social)]
 [![Commit](https://img.shields.io/gitlab/last-commit/ddgksf2013/Cuttlefish?gitlab_url=https%3A%2F%2Fgitlab.com%2F)](https://gitlab.com/ddgksf2013/Cuttlefish/-/commits/master)
 [![Telegram](https://img.shields.io/badge/Telegram-Channel-33A8E3)](https://t.me/ddgksf2021)
 [![Issues](https://img.shields.io/gitlab/issues/open/ddgksf2013/Cuttlefish?gitlab_url=https%3A%2F%2Fgitlab.com%2F)](https://gitlab.com/ddgksf2013/Cuttlefish/-/issues)
 [![](https://img.shields.io/gitlab/languages/count/ddgksf2013/Cuttlefish?gitlab_url=https%3A%2F%2Fgitlab.com%2F)](https://github.com/ddgksf2013)
 [![](https://img.shields.io/badge/Author-%E5%A2%A8%E9%B1%BC%E6%89%8B%E8%AE%B0-brightgreen)](https://github.com/ddgksf2013)
 
-## 墨魚手記（[自用](https://gitlab.com/ddgksf2013/Cuttlefish/-/blob/master/Rewrite/README.md "感谢赞助")）
+## 墨魚手記（[自用](https://github.com/BOBANDJOB/moyu/blob/main/README.md "感谢赞助")）
 [![Cuttlefish's GitLab stats](https://github-readme-stats.vercel.app/api?username=ddgksf2013&show_icons=true&count_private=true&theme=vue)](https://gitlab.com/ddgksf2013/Cuttlefish)
 
 
-> [***本库内容禁止公众号、自媒体进行任何形式的转载或发布***](https://gitlab.com/ddgksf2013/Cuttlefish)
+> [***本库内容禁止公众号、自媒体进行任何形式的转载或发布***](https://github.com/BOBANDJOB/moyu)
 
 ## 1️⃣QuantumultX 小白2.0配置： 
 * 配置更新时间：2022-10-22</font>
-* 墨鱼自用QX配置 [***Cuttlefish.conf***](https://gitlab.com/ddgksf2013/Cuttlefish/-/raw/master/Profile/QuantumultX.conf) 
-* 上述配置支持QX商店最新版，包括图标库订阅、网易云音乐解锁教程、旧版应用推荐、IOS更新屏蔽、分流和重写去广告、流媒体解锁查询、什么值得买知乎去广告、各种 [***APP会员解锁***](https://gitlab.com/ddgksf2013/Cuttlefish/-/raw/master/Rewrite/UnlockApp.conf)...
+* 墨鱼自用QX配置 [***Cuttlefish.conf***](https://github.com/BOBANDJOB/moyu/blob/main/Profile/QuantumultX.conf) 
+* 上述配置支持QX商店最新版，包括图标库订阅、网易云音乐解锁教程、旧版应用推荐、IOS更新屏蔽、分流和重写去广告、流媒体解锁查询、什么值得买知乎去广告、各种 [***APP会员解锁***](https://github.com/BOBANDJOB/moyu/blob/main/Rewrite/UnlockApp.conf)...
 * 可借助 ghproxy 为 GitHub 加速：在 ```https://raw.githubusercontent.com/``` 前添加 ```https://ghproxy.com/```
-* 更多懒人配置请狠狠的 [***Click me***](https://gitlab.com/ddgksf2013/Cuttlefish/-/blob/master/Profile/README.md)
+* 更多懒人配置请狠狠的 [***Click me***](https://github.com/BOBANDJOB/moyu/blob/main/Profile/README.md)
 > 详细的带图指南请参考 [*@Shawn*](https://t.me/QuanX_API) 提供的 [***Quantumult X 不完全指南***](https://www.notion.so/Quantumult-X-1d32ddc6e61c4892ad2ec5ea47f00917#bb2dce7c01114955bbdbbd222f2a5fcf)
 
 ## 2️⃣QuantumultX 分流：
-* 网易云音乐分流 [*NeteaseMusic.list*](https://gitlab.com/ddgksf2013/Cuttlefish/-/raw/master/Filter/NeteaseMusic.list)
-* 自用影视广告屏蔽 [*Mybreak.list*](https://gitlab.com/ddgksf2013/Cuttlefish/-/raw/master/Filter/Mybreak.list)
-* IP隐藏の分流 [*Anti-ip.list*](https://gitlab.com/ddgksf2013/Cuttlefish/-/raw/master/Filter/anti-ip-attribution.list)
+* 网易云音乐分流 [*NeteaseMusic.list*](https://raw.githubusercontent.com/BOBANDJOB/moyu/main/Filter/NeteaseMusic.list)
+* 自用影视广告屏蔽 [*Mybreak.list*](https://raw.githubusercontent.com/BOBANDJOB/moyu/main/Filter/Mybreak.list)
+* IP隐藏の分流 [*Anti-ip.list*](https://raw.githubusercontent.com/BOBANDJOB/moyu/main/Filter/anti-ip-attribution.list)
 > 更多的分流请参考 [*@DivineEngine*](https://github.com/DivineEngine) 提供的 [***Quantumult X 分流***](https://github.com/DivineEngine/Profiles/tree/master/Quantumult/Filter)
 
 ## 3️⃣QuantumultX 复写：
@@ -31,38 +31,38 @@
     <tr> <th> 类别 </th> <th> 序号 </th> <th> 功能 </th> <th> 链接 </th> <th> 状态 </th> <th> 作者 </th> </tr >
     <tr>
 		<td rowspan="6"><strong>会员解锁</strong></td>
-		<td > 1 </td> <td > 真B站去广告+解锁普通视频<br><strong><em>1080P高码率</em></strong> </td> <td ><a href="https://gitlab.com/ddgksf2013/Cuttlefish/-/raw/master/Rewrite/AdBlock/Bilibili.conf"><em>BilibiliVip.conf</em></a></td><td>✅</td><td>ddgksf2013</td>
+		<td > 1 </td> <td > 真B站去广告+解锁普通视频<br><strong><em>1080P高码率</em></strong> </td> <td ><a href="https://raw.githubusercontent.com/BOBANDJOB/moyu/main/Rewrite/AdBlock/Bilibili.conf"><em>BilibiliVip.conf</em></a></td><td>✅</td><td>ddgksf2013</td>
     </tr>
 	<tr>
-		<td > 2 </td> <td > 酷我音乐超级VIP </td> <td ><a href="https://gitlab.com/ddgksf2013/Cuttlefish/-/raw/master/Rewrite/UnlockVip/Kuwo.conf"><em>KuwoVIP.conf</em></a></td><td>✅</td><td>ddgksf2013</td>
+		<td > 2 </td> <td > 酷我音乐超级VIP </td> <td ><a href="https://raw.githubusercontent.com/BOBANDJOB/moyu/main/Rewrite/UnlockVip/Kuwo.conf"><em>KuwoVIP.conf</em></a></td><td>✅</td><td>ddgksf2013</td>
     </tr>	
 	<tr>
-		<td > 3 </td> <td > 人人视频会员 </td> <td ><a href="https://gitlab.com/ddgksf2013/Cuttlefish/-/raw/master/Rewrite/UnlockVip/Rrtv.conf"><em>RrtvVip.conf</em></a></td><td>✅</td><td>ddgksf2013</td>
+		<td > 3 </td> <td > 人人视频会员 </td> <td ><a href="https://raw.githubusercontent.com/BOBANDJOB/moyu/main/Rewrite/UnlockVip/Rrtv.conf"><em>RrtvVip.conf</em></a></td><td>✅</td><td>ddgksf2013</td>
     </tr>
 	<tr>
-		<td > 4 </td> <td > Spotify会员 </td> <td ><a href="https://gitlab.com/ddgksf2013/Cuttlefish/-/raw/master/Rewrite/UnlockVip/Spotify.conf"><em>SpotifyPro.conf</em></a></td><td>✅</td><td>app2smile</td>
+		<td > 4 </td> <td > Spotify会员 </td> <td ><a href="https://raw.githubusercontent.com/BOBANDJOB/moyu/main/Rewrite/UnlockVip/Spotify.conf"><em>SpotifyPro.conf</em></a></td><td>✅</td><td>app2smile</td>
     </tr>
 	<tr>
-		<td > 5 </td> <td > <strong><em>墨鱼QX专属VIP</em></strong><br>请自行添加Hostname </td> <td ><a href="https://gitlab.com/ddgksf2013/Cuttlefish/-/raw/master/Rewrite/UnlockApp.conf"><em>UnlockApp.conf</em></a></td><td>✅</td><td>ddgksf2013</td>
+		<td > 5 </td> <td > <strong><em>墨鱼QX专属VIP</em></strong><br>请自行添加Hostname </td> <td ><a href="https://raw.githubusercontent.com/BOBANDJOB/moyu/main/Rewrite/UnlockApp.conf"><em>UnlockApp.conf</em></a></td><td>✅</td><td>ddgksf2013</td>
     </tr>
 	<tr>
-		<td > 6 </td> <td > ForOwnUseVip </td> <td ><a href="https://gitlab.com/ddgksf2013/Cuttlefish/-/raw/master/Rewrite/ForOwnUse.conf"><em>ForOwnUse.conf</em></a></td><td>✅</td><td>ddgksf2013</td>
+		<td > 6 </td> <td > ForOwnUseVip </td> <td ><a href="https://raw.githubusercontent.com/BOBANDJOB/moyu/main/Rewrite/ForOwnUse.conf"><em>ForOwnUse.conf</em></a></td><td>✅</td><td>ddgksf2013</td>
     </tr>
 	<tr>
 		<td colspan="6">  </td>
     </tr>
     <tr>
 		<td rowspan="13"><strong>广告屏蔽</strong></td>
-		<td > 1 </td> <td > 微信小程序去广告神器 </td> <td ><a href="https://gitlab.com/ddgksf2013/Cuttlefish/-/raw/master/Rewrite/AdBlock/Applet.conf"><em>Applet.conf</em></a></td><td>✅</td><td>ddgksf2013</td>
+		<td > 1 </td> <td > 微信小程序去广告神器 </td> <td ><a href="https://raw.githubusercontent.com/BOBANDJOB/moyu/main/Rewrite/AdBlock/Applet.conf"><em>Applet.conf</em></a></td><td>✅</td><td>ddgksf2013</td>
     </tr>
     <tr>
-		<td > 2 </td> <td > <strong>开屏广告屏蔽2.0 </strong></td> <td ><a href="https://gitlab.com/ddgksf2013/Cuttlefish/-/raw/master/Rewrite/AdBlock/StartUp.conf"><em>StartUp.conf</em></a></td><td>✅</td><td>ddgksf2013</td>
+		<td > 2 </td> <td > <strong>开屏广告屏蔽2.0 </strong></td> <td ><a href="https://raw.githubusercontent.com/BOBANDJOB/moyu/main/Rewrite/AdBlock/StartUp.conf"><em>StartUp.conf</em></a></td><td>✅</td><td>ddgksf2013</td>
     </tr>
     <tr>
-		<td > 3 </td> <td > 油管广告屏蔽 </td> <td ><a href="https://gitlab.com/ddgksf2013/Cuttlefish/-/raw/master/Rewrite/AdBlock/YoutubeAds.conf"><em>YoutubeAds.conf</em></a></td><td>✅</td><td>divineEngine</td>  
+		<td > 3 </td> <td > 油管广告屏蔽 </td> <td ><a href="https://raw.githubusercontent.com/BOBANDJOB/moyu/main/Rewrite/AdBlock/YoutubeAds.conf"><em>YoutubeAds.conf</em></a></td><td>✅</td><td>divineEngine</td>  
     </tr>
 	<tr>
-		<td > 4 </td> <td > 公众号图文去广告<br><strong><em>无法去除朋友圈AD</strong></em> </td> <td ><a href="https://gitlab.com/ddgksf2013/Cuttlefish/-/raw/master/Rewrite/AdBlock/WeChat.conf"><em>WeChatAdBlock.conf</em></a></td><td>✅</td><td>ddgksf2013</td>
+		<td > 4 </td> <td > 公众号图文去广告<br><strong><em>无法去除朋友圈AD</strong></em> </td> <td ><a href="https://raw.githubusercontent.com/BOBANDJOB/moyu/main/Rewrite/AdBlock/WeChat.conf"><em>WeChatAdBlock.conf</em></a></td><td>✅</td><td>ddgksf2013</td>
     </tr>
 	<tr>
 		<td > 5 </td> <td > 微博最新去广告 </td> <td ><a href="https://github.com/zmqcherish/proxy-script/raw/main/weibo.conf"><em>Weibo.conf</em></a></td><td>✅</td><td>zmqcherish</td>  
@@ -80,29 +80,29 @@
 		<td > 9 </td> <td > 百度网盘去广告 </td> <td ><a href="https://raw.githubusercontent.com/zqzess/rule_for_quantumultX/master/QuantumultX/rewrite/MyRewrite.conf"><em>BdPanAdBlock.conf</em></a></td><td>✅</td><td>zqzess</td>  
     </tr>
 		<tr>
-		<td > 10 </td> <td > <strong><em>喜马拉雅去广告</strong></em> </td> <td ><a href="https://gitlab.com/ddgksf2013/Cuttlefish/-/raw/master/Rewrite/AdBlock/Ximalaya.conf"><em>XmlyAdBlock.conf</em></a></td><td>✅</td><td>ddgksf2013</td>  
+		<td > 10 </td> <td > <strong><em>喜马拉雅去广告</strong></em> </td> <td ><a href="https://raw.githubusercontent.com/BOBANDJOB/moyu/main/Rewrite/AdBlock/Ximalaya.conf"><em>XmlyAdBlock.conf</em></a></td><td>✅</td><td>ddgksf2013</td>  
     </tr>
 	<tr>
-		<td > 11 </td> <td > 微博国际版去广告</td> <td ><a href="https://gitlab.com/ddgksf2013/Cuttlefish/-/raw/master/Rewrite/AdBlock/WeiboLite.conf"><em>WeiboLite.conf</em></a></td><td>✅</td><td>ddgksf2013</td>  
+		<td > 11 </td> <td > 微博国际版去广告</td> <td ><a href="https://raw.githubusercontent.com/BOBANDJOB/moyu/main/Rewrite/AdBlock/WeiboLite.conf"><em>WeiboLite.conf</em></a></td><td>✅</td><td>ddgksf2013</td>  
     </tr>
 	<tr>
-		<td > 12 </td> <td > 小红书去广告</td> <td ><a href="https://gitlab.com/ddgksf2013/Cuttlefish/-/raw/master/Rewrite/AdBlock/XiaoHongShu.conf">XiaoHongShu.conf</a></td><td>✅</td><td>ddgksf2013</td>  
+		<td > 12 </td> <td > 小红书去广告</td> <td ><a href="https://raw.githubusercontent.com/BOBANDJOB/moyu/main/Rewrite/AdBlock/XiaoHongShu.conf">XiaoHongShu.conf</a></td><td>✅</td><td>ddgksf2013</td>  
     </tr>
 	<tr>
-		<td > 13 </td> <td > Keep超级净化</td> <td ><a href="https://gitlab.com/ddgksf2013/Cuttlefish/-/raw/master/Script/keepStyle.js">keepStyle.js</a></td><td>✅</td><td>ddgksf2013</td>  
+		<td > 13 </td> <td > Keep超级净化</td> <td ><a href="https://raw.githubusercontent.com/BOBANDJOB/moyu/main/Script/keepStyle.js">keepStyle.js</a></td><td>✅</td><td>ddgksf2013</td>  
     </tr>
 	<tr>
 		<td colspan="6">  </td>
     </tr>
 	<tr>
 		<td rowspan="8"><strong>应用增强</strong></td>
-		<td > 1 </td> <td > B站自动换区 </td> <td ><a href="https://gitlab.com/ddgksf2013/Cuttlefish/-/raw/master/Rewrite/Function/BilibiliAutoRegion.conf"><em>BilibiliAutoRegion.conf</em></a></td><td>✅</td><td>Nobyda</td>
+		<td > 1 </td> <td > B站自动换区 </td> <td ><a href="https://raw.githubusercontent.com/BOBANDJOB/moyu/main/Rewrite/Function/BilibiliAutoRegion.conf"><em>BilibiliAutoRegion.conf</em></a></td><td>✅</td><td>Nobyda</td>
     </tr>
 	<tr>
-		<td > 2 </td> <td > B站CC繁体字幕转简体 </td> <td ><a href="https://gitlab.com/ddgksf2013/Cuttlefish/-/raw/master/Rewrite/Function/Bilibili_CC.conf"><em>Bilibili_CC.conf</em></a></td><td>✅</td><td>ddgksf2013</td>
+		<td > 2 </td> <td > B站CC繁体字幕转简体 </td> <td ><a href="https://raw.githubusercontent.com/BOBANDJOB/moyu/main/Rewrite/Function/Bilibili_CC.conf"><em>Bilibili_CC.conf</em></a></td><td>✅</td><td>ddgksf2013</td>
     </tr>
 	<tr>
-		<td > 3 </td> <td > 百度网盘倍速 </td> <td ><a href="https://gitlab.com/ddgksf2013/Cuttlefish/-/raw/master/Rewrite/UnlockVip/BaiduCloud.conf"><em>BaiduCloud.conf</em></a></td><td>✅</td><td>ddgksf2013</td>
+		<td > 3 </td> <td > 百度网盘倍速 </td> <td ><a href="https://raw.githubusercontent.com/BOBANDJOB/moyu/main/Rewrite/UnlockVip/BaiduCloud.conf"><em>BaiduCloud.conf</em></a></td><td>✅</td><td>ddgksf2013</td>
     </tr>
 	<tr>
 		<td > 4 </td> <td > Youtube无中文字幕机翻方案 </td> <td ><a href="https://raw.githubusercontent.com/id77/QuantumultX/master/rewrite/Youtube_CC.conf#out=Hant"><em>Youtube_CC.conf</em></a></td><td>✅</td><td>id77</td>
@@ -124,28 +124,28 @@
     </tr>
 	<tr>
 		<td rowspan="4"><strong>网页优化</strong></td>
-		<td > 1 </td> <td > 自用影视网站去广告 </td> <td ><a href="https://gitlab.com/ddgksf2013/Cuttlefish/-/raw/master/Html/WebAdBlock.conf"><em>WebAdBlock.conf</em></a></td><td>✅</td><td>ddgksf2013</td>
+		<td > 1 </td> <td > 自用影视网站去广告 </td> <td ><a href="https://raw.githubusercontent.com/BOBANDJOB/moyu/main/Html/WebAdBlock.conf"><em>WebAdBlock.conf</em></a></td><td>✅</td><td>ddgksf2013</td>
     </tr>
 	<tr>
-		<td > 2 </td> <td > Google自动翻页 </td> <td ><a href="https://gitlab.com/ddgksf2013/Cuttlefish/-/raw/master/Rewrite/Function/EndlessGoogle.conf"><em>EndlessGoogle.conf</em></a></td><td>✅</td><td>langkhach</td>
+		<td > 2 </td> <td > Google自动翻页 </td> <td ><a href="https://raw.githubusercontent.com/BOBANDJOB/moyu/main/Rewrite/Function/EndlessGoogle.conf"><em>EndlessGoogle.conf</em></a></td><td>✅</td><td>langkhach</td>
     </tr>
 	<tr>
-		<td > 3 </td> <td > <strong><em>Safari超级搜索V2.0</em></strong><br>翻译·社区·购物·换区·视频·引擎  </td> <td ><a href="https://gitlab.com/ddgksf2013/Cuttlefish/-/raw/master/Rewrite/Function/Q-Search.conf"><em>Q-Search.conf</em></a></td><td>✅</td><td>ddgksf2013</td>
+		<td > 3 </td> <td > <strong><em>Safari超级搜索V2.0</em></strong><br>翻译·社区·购物·换区·视频·引擎  </td> <td ><a href="https://raw.githubusercontent.com/BOBANDJOB/moyu/main/Rewrite/Function/Q-Search.conf"><em>Q-Search.conf</em></a></td><td>✅</td><td>ddgksf2013</td>
     </tr>
 	<tr>
-		<td > 4 </td> <td > QX快捷解析全网VIP视频 </td> <td ><a href="https://gitlab.com/ddgksf2013/Cuttlefish/-/raw/master/Rewrite/UnlockVip/ParseVideo.conf"><em>ParseVideo.conf</em></a></td><td>⛔️</td><td>ddgksf2013</td>
+		<td > 4 </td> <td > QX快捷解析全网VIP视频 </td> <td ><a href="https://raw.githubusercontent.com/BOBANDJOB/moyu/main/Rewrite/UnlockVip/ParseVideo.conf"><em>ParseVideo.conf</em></a></td><td>⛔️</td><td>ddgksf2013</td>
     </tr>
 </table>
 
-> 更多的重写请参考 [*@ddgksf2013*](https://gitlab.com/ddgksf2013) 提供的 [***Quantumult X 重写配置***](https://gitlab.com/ddgksf2013/Cuttlefish/-/tree/master/Rewrite)
+> 更多的重写请参考 [*@ddgksf2013*](https://gitlab.com/ddgksf2013) 提供的 [***Quantumult X 重写配置***](https://github.com/BOBANDJOB/moyu/tree/main/Rewrite)
 
 ## 4️⃣QuantumultX 脚本Task：
-- [x] 喵喵记账每日签到 [*mmjz.js*](https://gitlab.com/ddgksf2013/Cuttlefish/-/raw/master/Script/mmjz.js)
-- [x] QX每日色图脚本 [*setu.js*](https://gitlab.com/ddgksf2013/Cuttlefish/-/raw/master/Script/setu.js)
-- [x] 得宝小程序签到 [*db.js*](https://gitlab.com/ddgksf2013/Cuttlefish/-/raw/master/Script/debao.js)
-- [x] 同程旅行小程序签到 [*tclx.js*](https://gitlab.com/ddgksf2013/Cuttlefish/-/raw/master/Script/tclx.js)
-- [x] 书香门第网页签到 [*sxmd.js*](https://gitlab.com/ddgksf2013/Cuttlefish/-/raw/master/Script/shuxiangmendi.js)
-- [x] 每天60s读懂世界 [*60s.js*](https://gitlab.com/ddgksf2013/Cuttlefish/-/raw/master/Script/60s.js)
+- [x] 喵喵记账每日签到 [*mmjz.js*](https://raw.githubusercontent.com/BOBANDJOB/moyu/main/Script/mmjz.js)
+- [x] QX每日色图脚本 [*setu.js*](https://raw.githubusercontent.com/BOBANDJOB/moyu/main/Script/setu.js)
+- [x] 得宝小程序签到 [*db.js*](https://raw.githubusercontent.com/BOBANDJOB/moyu/main/Script/debao.js)
+- [x] 同程旅行小程序签到 [*tclx.js*](https://raw.githubusercontent.com/BOBANDJOB/moyu/main/Script/tclx.js)
+- [x] 书香门第网页签到 [*sxmd.js*](https://raw.githubusercontent.com/BOBANDJOB/moyu/main/Script/shuxiangmendi.js)
+- [x] 每天60s读懂世界 [*60s.js*](https://raw.githubusercontent.com/BOBANDJOB/moyu/main/Script/60s.js)
 > 更多的签到脚本请参考 [*@Chavyleung*](https://github.com/chavyleung) 提供的 [***Quantumult X 签到脚本***](https://github.com/chavyleung/scripts/blob/master/QuantumultX_Remote_Task.conf)
 
 ## 5️⃣QuantumultX 图标库
@@ -163,14 +163,14 @@
 | 8 | [姿势图标库](https://quantumult.app/x/open-app/ui?module=gallery&type=icon&action=add&content=%5B%0A%20%20%20%20%22https%3A%2F%2Fraw.githubusercontent.com%2FLovedGM%2FQuantumult-X-TuBiao%2Fmain%2Fzishi-cs.json%22%0A%5D) | LovedGM | 
 | 9 | [Semporia库 ](https://quantumult.app/x/open-app/ui?module=gallery&type=icon&action=add&content=%5B%0A%20%20%20%20%22https%3A%2F%2Fraw.githubusercontent.com%2FSemporia%2FHand-Painted-icon%2Fmaster%2FSemporia.json%22%0A%5D) | Semporia |
 
-> 更多的图标订阅请参考 [*@ddgksf2013*](https://gitlab.com/ddgksf2013) 集合的 [***Quantumult X 图标库***](https://gitlab.com/ddgksf2013/Cuttlefish/-/blob/master/Icon/README.md)
+> 更多的图标订阅请参考 [*@ddgksf2013*](https://gitlab.com/ddgksf2013) 集合的 [***Quantumult X 图标库***](https://github.com/BOBANDJOB/moyu/blob/main/Icon/README.md)
 
 ## 6️⃣Awesome Resource：
-* QuantumultX测试版[***更新日志***](https://gitlab.com/ddgksf2013/Cuttlefish/-/raw/master/Profile/QX_TestFlight_Update.log)
-* 自用Clash配置 [*Config.yaml*](https://gitlab.com/ddgksf2013/Cuttlefish/-/raw/master/Profile/Config.yaml)
+* QuantumultX测试版[***更新日志***](https://raw.githubusercontent.com/BOBANDJOB/moyu/main/Profile/QX_TestFlight_Update.log)
+* 自用Clash配置 [*Config.yaml*](https://raw.githubusercontent.com/BOBANDJOB/moyu/main/Profile/Config.yaml)
 * 1080P超清IPTV国内[***直播源***](https://github.com/wonderfvvl/iptv-3/raw/master/国内.m3u)
 * Clash详细教程 [*Documents.md*](https://docs.cfw.lbyczf.com/contents/quickstart.html)
-* [***自用优秀Web网站合集***](https://gitlab.com/ddgksf2013/Cuttlefish/-/tree/master/Html)：影视、工具、下载、阅读、Porn...
+* [***自用优秀Web网站合集***](https://github.com/BOBANDJOB/moyu/tree/main/Html)：影视、工具、下载、阅读、Porn...
 
 
 ## 7️⃣Telegram 通知频道：
